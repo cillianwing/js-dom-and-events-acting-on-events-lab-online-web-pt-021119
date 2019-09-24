@@ -7,5 +7,5 @@ function preventRefreshOnSubmit(){
 preventRefreshOnSubmit()
 
 function retrieveEmployeeInformation() {
-  let employee = document.querySelector()
+  let employee = $('form input:first-child');
 }
