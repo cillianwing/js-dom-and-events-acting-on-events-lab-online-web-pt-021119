@@ -22,3 +22,6 @@ function addNewElementAsLi() {
   ul.appendChild(li);
 }
 
+fuction addNewLiOnClick() {
+  
+}
