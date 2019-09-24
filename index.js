@@ -23,5 +23,5 @@ function addNewElementAsLi() {
 }
 
 fuction addNewLiOnClick() {
-  document.addEventListener('click', addNewElementAsLi, false);
+  return document.addEventListener('click', addNewElementAsLi, false);
 }
