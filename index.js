@@ -11,3 +11,7 @@ function retrieveEmployeeInformation() {
   
   return employee;
 }
+
+function addNewElementAsLi() {
+  
+}
