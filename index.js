@@ -8,4 +8,6 @@ preventRefreshOnSubmit()
 
 function retrieveEmployeeInformation(input) {
   let employee = document.querySelector(`${input}`);
+  
+  return employee;
 }
